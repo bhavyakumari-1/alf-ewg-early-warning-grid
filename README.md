@@ -1,10 +1,5 @@
 # Autonomous Landslide & Flash-Flood Early Warning Grid (ALF-EWG)
 
-**Course:** Object-Oriented Programming Using C++ (CIC-211)
-**Institute:** Maharaja Agrasen Institute of Technology, Dept. of Computer Science & Engineering
-**Project:** Option 1 - ALF-EWG
-**Student:** Bhavya Kumari  |  **Enrollment No.:** 02096402725  (individual submission)
-
 A console back-end for a network of solar-powered IoT telemetry nodes (soil moisture / geophone probes,
 acoustic tiltmeters, river-level sonar gauges and hybrid solar + LoRa probes). It ingests sensor sweeps,
 computes hazard indices, aggregates stations into regional zones, triggers sirens, plans prioritised
