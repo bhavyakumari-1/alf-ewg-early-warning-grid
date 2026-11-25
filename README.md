@@ -72,4 +72,4 @@ git branch -M main
 git remote add origin <your-repository-url>
 git push -u origin main
 ```
-Then zip the folder and upload it through the submission Google Form (deadline 27 Nov 2026, 11:59 PM).
+
