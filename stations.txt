@@ -1,0 +1,13 @@
+# ALF-EWG station configuration (simulated deployment, Himalayan belt)
+# Format : id  name  zone  kind  latitude  longitude  elevation_m
+# kind   : soil | tilt | sonar | hybrid      (names use '_' instead of spaces)
+S-101 Kedar_Soil_A       Z-KEDAR         soil    30.73520 79.06690 3583
+S-102 Kedar_Sonar_1      Z-KEDAR         sonar   30.73010 79.07020 3490
+S-103 Kedar_Hybrid_1     Z-KEDAR         hybrid  30.74100 79.06110 3720
+S-201 Chamoli_Tilt_A     Z-CHAMOLI       tilt    30.40250 79.32170 1130
+S-202 Chamoli_Soil_B     Z-CHAMOLI       soil    30.41100 79.31500 1210
+S-203 Chamoli_Sonar_1    Z-CHAMOLI       sonar   30.39800 79.33000 1085
+S-301 Pithora_Tilt_A     Z-PITHORAGARH   tilt    29.58290 80.21820 1650
+S-302 Pithora_Hybrid_1   Z-PITHORAGARH   hybrid  29.59000 80.20500 1720
+S-401 Uttark_Soil_A      Z-UTTARKASHI    soil    30.72680 78.43540 1160
+S-402 Uttark_Sonar_1     Z-UTTARKASHI    sonar   30.73100 78.44300 1105

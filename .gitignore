@@ -1,0 +1,5 @@
+build/
+alf_ewg
+alf_ewg_asan
+*.bin
+stations_snapshot.txt
